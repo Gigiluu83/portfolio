@@ -6,7 +6,7 @@ body{
 }
 
 img {
-	max-width: 100%
+	max-width: 100%;
 }
 
 a {
@@ -138,11 +138,11 @@ PAGE: CONTACT
     background-image: url("../img/phone.png");
 }
 
-.contact-info li twitter a{
+.contact-info li.twitter a{
     background-image: url("../img/twitter.png");
 }
 
-.contact-info li mail a{
+.contact-info li.mail a{
     background-image: url("../img/mail.png");
 }
 
